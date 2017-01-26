@@ -1,3 +1,8 @@
+*.iml
+*.ipr
+*.iws
+.idea
+out
 
 # Created by https://www.gitignore.io/api/scala
 
@@ -25,3 +30,4 @@ project/plugins/project/
 .ensime
 
 # End of https://www.gitignore.io/api/scala
+.idea/
